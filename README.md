@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=deepanshurwt06&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" />
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" />
 
 - 🔭 I’m currently working with technologies like **Next.js, Node.js, Express.js**
 - 🌱 I’m exploring **Next.js, Firebase, and AI integration**
@@ -25,19 +25,12 @@
 ## 📈 GitHub Stats & Charts
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepanshurwt06&show_icons=true&theme=radical" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepanshurwt06&theme=radical" height="180px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshurwt06&layout=compact&theme=radical" />
-</p>
-
----
-
-## 📊 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepanshurwt06&theme=react-dark&area=true&hide_border=true" />
+  <span style="display: inline-block; margin-right: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=deepanshurwt06&show_icons=true&theme=radical" height="180px" />
+  </span>
+  <span style="display: inline-block;margin-right: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshurwt06&layout=compact&theme=radical" height="180px" />
+  </span>
 </p>
 
 ---
